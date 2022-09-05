@@ -1,0 +1,48 @@
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\G032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\bin\Debug\net5.0\SinemaUygulaması.exe
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\G032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\bin\Debug\net5.0\SinemaUygulaması.deps.json
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\G032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\bin\Debug\net5.0\SinemaUygulaması.runtimeconfig.json
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\G032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\bin\Debug\net5.0\SinemaUygulaması.runtimeconfig.dev.json
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\G032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\bin\Debug\net5.0\SinemaUygulaması.dll
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\G032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\bin\Debug\net5.0\SinemaUygulaması.pdb
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\G032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\obj\Debug\net5.0\SinemaUygulaması.csproj.AssemblyReference.cache
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\G032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\obj\Debug\net5.0\SinemaUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\G032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\obj\Debug\net5.0\SinemaUygulaması.AssemblyInfoInputs.cache
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\G032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\obj\Debug\net5.0\SinemaUygulaması.AssemblyInfo.cs
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\G032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\obj\Debug\net5.0\SinemaUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\G032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\obj\Debug\net5.0\SinemaUygulaması.dll
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\G032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\obj\Debug\net5.0\refint\SinemaUygulaması.dll
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\G032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\obj\Debug\net5.0\SinemaUygulaması.pdb
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\G032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\obj\Debug\net5.0\SinemaUygulaması.genruntimeconfig.cache
+C:\Users\tufan\OneDrive\Masaüstü\Tufan Güngör\SMA\G032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\obj\Debug\net5.0\ref\SinemaUygulaması.dll
+C:\Users\koseo\Downloads\SinemaUygulamasıG032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\bin\Debug\net5.0\SinemaUygulaması.exe
+C:\Users\koseo\Downloads\SinemaUygulamasıG032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\bin\Debug\net5.0\SinemaUygulaması.deps.json
+C:\Users\koseo\Downloads\SinemaUygulamasıG032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\bin\Debug\net5.0\SinemaUygulaması.runtimeconfig.json
+C:\Users\koseo\Downloads\SinemaUygulamasıG032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\bin\Debug\net5.0\SinemaUygulaması.runtimeconfig.dev.json
+C:\Users\koseo\Downloads\SinemaUygulamasıG032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\bin\Debug\net5.0\SinemaUygulaması.dll
+C:\Users\koseo\Downloads\SinemaUygulamasıG032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\bin\Debug\net5.0\SinemaUygulaması.pdb
+C:\Users\koseo\Downloads\SinemaUygulamasıG032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\obj\Debug\net5.0\SinemaUygulaması.csproj.AssemblyReference.cache
+C:\Users\koseo\Downloads\SinemaUygulamasıG032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\obj\Debug\net5.0\SinemaUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koseo\Downloads\SinemaUygulamasıG032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\obj\Debug\net5.0\SinemaUygulaması.AssemblyInfoInputs.cache
+C:\Users\koseo\Downloads\SinemaUygulamasıG032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\obj\Debug\net5.0\SinemaUygulaması.AssemblyInfo.cs
+C:\Users\koseo\Downloads\SinemaUygulamasıG032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\obj\Debug\net5.0\SinemaUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\koseo\Downloads\SinemaUygulamasıG032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\obj\Debug\net5.0\SinemaUygulaması.dll
+C:\Users\koseo\Downloads\SinemaUygulamasıG032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\obj\Debug\net5.0\refint\SinemaUygulaması.dll
+C:\Users\koseo\Downloads\SinemaUygulamasıG032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\obj\Debug\net5.0\SinemaUygulaması.pdb
+C:\Users\koseo\Downloads\SinemaUygulamasıG032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\obj\Debug\net5.0\SinemaUygulaması.genruntimeconfig.cache
+C:\Users\koseo\Downloads\SinemaUygulamasıG032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\obj\Debug\net5.0\ref\SinemaUygulaması.dll
+C:\Users\koseo\OneDrive\Masaüstü\SILICONMADE\SinemaUygulamasıG032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\bin\Debug\net5.0\SinemaUygulaması.exe
+C:\Users\koseo\OneDrive\Masaüstü\SILICONMADE\SinemaUygulamasıG032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\bin\Debug\net5.0\SinemaUygulaması.deps.json
+C:\Users\koseo\OneDrive\Masaüstü\SILICONMADE\SinemaUygulamasıG032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\bin\Debug\net5.0\SinemaUygulaması.runtimeconfig.json
+C:\Users\koseo\OneDrive\Masaüstü\SILICONMADE\SinemaUygulamasıG032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\bin\Debug\net5.0\SinemaUygulaması.runtimeconfig.dev.json
+C:\Users\koseo\OneDrive\Masaüstü\SILICONMADE\SinemaUygulamasıG032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\bin\Debug\net5.0\SinemaUygulaması.dll
+C:\Users\koseo\OneDrive\Masaüstü\SILICONMADE\SinemaUygulamasıG032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\bin\Debug\net5.0\SinemaUygulaması.pdb
+C:\Users\koseo\OneDrive\Masaüstü\SILICONMADE\SinemaUygulamasıG032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\obj\Debug\net5.0\SinemaUygulaması.csproj.AssemblyReference.cache
+C:\Users\koseo\OneDrive\Masaüstü\SILICONMADE\SinemaUygulamasıG032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\obj\Debug\net5.0\SinemaUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koseo\OneDrive\Masaüstü\SILICONMADE\SinemaUygulamasıG032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\obj\Debug\net5.0\SinemaUygulaması.AssemblyInfoInputs.cache
+C:\Users\koseo\OneDrive\Masaüstü\SILICONMADE\SinemaUygulamasıG032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\obj\Debug\net5.0\SinemaUygulaması.AssemblyInfo.cs
+C:\Users\koseo\OneDrive\Masaüstü\SILICONMADE\SinemaUygulamasıG032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\obj\Debug\net5.0\SinemaUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\koseo\OneDrive\Masaüstü\SILICONMADE\SinemaUygulamasıG032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\obj\Debug\net5.0\SinemaUygulaması.dll
+C:\Users\koseo\OneDrive\Masaüstü\SILICONMADE\SinemaUygulamasıG032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\obj\Debug\net5.0\refint\SinemaUygulaması.dll
+C:\Users\koseo\OneDrive\Masaüstü\SILICONMADE\SinemaUygulamasıG032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\obj\Debug\net5.0\SinemaUygulaması.pdb
+C:\Users\koseo\OneDrive\Masaüstü\SILICONMADE\SinemaUygulamasıG032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\obj\Debug\net5.0\SinemaUygulaması.genruntimeconfig.cache
+C:\Users\koseo\OneDrive\Masaüstü\SILICONMADE\SinemaUygulamasıG032\SinemaUygulamasıG032\SinemaUygulaması\SinemaUygulaması\obj\Debug\net5.0\ref\SinemaUygulaması.dll
